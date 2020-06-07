@@ -6,7 +6,7 @@ I have designed Shift and Add Multiplier using 2 different adders
 1. CLA
 2. RCA
 
-The heirarchy of the files are as follws
+The heirarchy of the files are as follows
 Shift and Add Multiplier
 --Control Unit
 --CLA/RCA
